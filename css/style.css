@@ -122,6 +122,8 @@ section {
 .home .image{
     flex: 1 1 45rem;
     max-width: 60rem;
+    box-shadow: 0px 0px 17px -2px rgb(0, 0, 0, 0.75);
+    border-radius: 15%;
 }
 .home .image img{
     display: flex;
@@ -186,7 +188,7 @@ section {
 /* Akay Start */
 .akay {
     min-height: 100vh;
-    margin-top: -10rem;
+    margin-top: -12.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
