@@ -2,12 +2,13 @@
 
 :root {
     --main-color: #1E2328;
-    --text-color: /* #ECDFCC */ #FED054;
+    --text-color:
+        /* #ECDFCC */
+        #FED054;
     --bg-color: #F4A303;
     --black-color: #2A2E34;
-    --border: 0.1rem solid #F4B300 ;
+    --border: 0.1rem solid #F4B300;
 }
-
 
 * {
     margin: 0;
@@ -52,6 +53,7 @@ a {
     color: var(--text-color);
     text-decoration: none;
 }
+
 section {
     padding: 3.5rem 7%;
 }
@@ -62,7 +64,8 @@ section {
     background-color: transparent;
     padding: 0.5rem 0;
 }
-.header{
+
+.header {
     background-color: #fff;
     display: flex;
     align-items: center;
@@ -75,34 +78,40 @@ section {
     top: 0;
     z-index: 1000;
 }
-.header .navbar a{
+
+.header .navbar a {
     margin: 0 1rem;
     font-size: 1.6rem;
     color: var(--black-color);
     border-bottom: 0.1rem solid transparent;
 }
+
 .header .navbar .active,
-.header .navbar a:hover{
+.header .navbar a:hover {
     border-color: var(--bg-color);
     padding-bottom: 0.5rem;
 }
-.header .buttons button{
+
+.header .buttons button {
     cursor: pointer;
     font-size: 2.5rem;
     margin-left: 2rem;
     background-color: transparent;
 }
+
 /* Header End */
 
 /* Footer Start */
-.footer{
+.footer {
     background-color: var(--black-color);
     text-align: center;
 }
-.footer .share{
+
+.footer .share {
     padding: 2rem 0;
 }
-.footer .share a{
+
+.footer .share a {
     width: 5rem;
     height: 5rem;
     line-height: 5rem;
@@ -112,59 +121,71 @@ section {
     border-radius: 50%;
     margin: 0.3rem;
 }
-.footer .share a:hover{
+
+.footer .share a:hover {
     background-color: var(--main-color);
-}.footer .links{
+}
+
+.footer .links {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
 }
-.footer .links a{
+
+.footer .links a {
     background-color: var(--main-color);
     padding: 0.7rem 2rem;
     color: var(--text-color);
     font-size: 2rem;
     border: var(--border);
 }
-.footer .links a:hover{
+
+.footer .links a:hover {
     background-color: var(--black-color);
     opacity: 0.7;
 }
-.footer .links a.active{
+
+.footer .links a.active {
     background-color: var(--black-color);
 }
+
 .footer .credit {
     font-size: 2rem;
     color: var(--text-color);
     font-weight: 300;
     padding-top: 1.5rem;
 }
-.footer .credit span{
+
+.footer .credit span {
     color: var(--text-color);
 }
 
 /* Footer End */
 /* Akay Start */
-.akay{
+.akay {
     min-height: 100vh;
     margin-top: -14.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.akay .content{
+
+.akay .content {
     max-width: 80rem;
 }
-.akay .content h3{
+
+.akay .content h3 {
     color: var(--text-color);
     font-size: 6rem;
 }
-.akay .content p{
+
+.akay .content p {
     color: var(--text-color);
     font-size: 2rem;
     font-weight: 300;
     line-height: 1.0;
     padding: 2rem 0;
 }
+
 /* Akay End */
