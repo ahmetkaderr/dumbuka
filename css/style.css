@@ -263,13 +263,11 @@ section {
     padding: 0.5rem 4rem;
     display: flex;
     align-items: center;
-    margin-top: 0.5rem;
 }
 .grids .icerik .ozet{
     padding: 0.5rem 3rem;
     min-height: 10rem; 
     margin-top: 2rem;
-    margin-bottom: 0.5rem;
     border: 1px solid black;
     padding: 0.5rem 3rem;
     display: flex;
@@ -290,6 +288,7 @@ section {
 .grids .icerik .ozet p,
 .grids .icerik .ozet span{
 color: var(--black-color);
+font-size: 1.2rem;
 }
 .grids .icerik .ozet .isim{
     position: absolute;
@@ -318,7 +317,7 @@ color: var(--black-color);
 }
 /* Duyurular End */
 /* Responsive Start */
-@media (min-width: 991px){
+@media (min-width: 768px){
     .header .buttons button{
         display: none;
     }
@@ -387,7 +386,8 @@ color: var(--black-color);
         font-size: 5rem;
     }
     .duyurular{
-        padding: 5rem 10rem;
+        padding: 10rem 18rem;
+        margin: 2rem 0rem;
     }
 }
 @media (max-width: 576px) {
