@@ -247,7 +247,7 @@ section {
     row-gap: 6rem;
     justify-content: center;
     align-items: center;
-    padding: 10rem 20rem;
+    padding: 10rem 30rem;
 }
 .grids .icerik{
     margin: 2rem 2rem;
@@ -256,10 +256,10 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--bg-color);
+    background-color: var(--black-color);
 }
 .grids .icerik .baslik{
-    border: 1px solid black;
+    border: var(--border);
     padding: 0.5rem 4rem;
     display: flex;
     align-items: center;
@@ -268,7 +268,7 @@ section {
     padding: 0.5rem 3rem;
     min-height: 10rem; 
     margin-top: 2rem;
-    border: 1px solid black;
+    border: var(--border);
     padding: 0.5rem 3rem;
     display: flex;
     align-items: center;
@@ -279,15 +279,18 @@ section {
 }
 .grids .icerik .baslik .grid-logo{
     max-width: 4rem;
+    padding: 0.2rem 0.1rem;
+    background-color: var(--text-color);
+    border-radius: 10%;
 }
 .grids .icerik .baslik h3{
-    color: var(--black-color);
+    color: var(--text-color);
     font-size: 2rem;
     padding-left: 3rem;
 }
 .grids .icerik .ozet p,
 .grids .icerik .ozet span{
-color: var(--black-color);
+color: var(--text-color);
 font-size: 1.2rem;
 }
 .grids .icerik .ozet .isim{
