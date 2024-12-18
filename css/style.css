@@ -97,9 +97,10 @@ section {
 /* Ana Sayfa Start */
 .home {
     min-height: 100vh;
-    margin-top: -14.5rem;
+    margin-top: -12.5rem;
     display: flex;
     align-items: center;
+    justify-content: space-around;
     flex-wrap: wrap;
     column-gap: 2rem;
 }
@@ -119,7 +120,8 @@ section {
     padding: 2rem 0;
 }
 .home .image{
-    flex: 1 1 45rem
+    flex: 1 1 45rem;
+    max-width: 60rem;
 }
 .home .image img{
     display: flex;
@@ -208,7 +210,39 @@ section {
 }
 
 /* Akay End */
+/* Parlemento Start */
+.parlamento {
+    min-height: 100vh;
+    margin-top: -12.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parlamento .aciklama,
+.parlamento .baslangic {
+    max-width: 80rem;
+}
+
+.parlamento h2 {
+    color: var(--text-color);
+    font-size: 6rem;
+}
+
+.parlamento p {
+    color: var(--text-color);
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.0;
+    padding: 2rem 0;
+}
+/* Parlemento End */
 /* Responsive Start */
+@media (min-width: 991px){
+    .header .buttons button{
+        display: none;
+    }
+}
 @media (max-width: 991px) {
     html {
         font-size: 55%;
