@@ -210,7 +210,7 @@ section {
 }
 
 /* Akay End */
-/* Parlemento Start */
+/* Parlamento Start */
 .parlamento {
     min-height: 100vh;
     margin-top: -12.5rem;
@@ -236,7 +236,87 @@ section {
     line-height: 1.0;
     padding: 2rem 0;
 }
-/* Parlemento End */
+/* Parlamento End */
+/* Duyurular Start */
+.duyurular{
+    min-height: 100vh;
+    margin-top: -8.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10rem;
+    row-gap: 6rem;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem 20rem;
+}
+.grids .icerik{
+    margin: 2rem 2rem;
+}
+.grids{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-color);
+}
+.grids .icerik .baslik{
+    border: 1px solid black;
+    padding: 0.5rem 4rem;
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.grids .icerik .ozet{
+    padding: 0.5rem 3rem;
+    min-height: 10rem; 
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid black;
+    padding: 0.5rem 3rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.grids .icerik .baslik .grid-logo img{
+    width: 100%;
+}
+.grids .icerik .baslik .grid-logo{
+    max-width: 4rem;
+}
+.grids .icerik .baslik h3{
+    color: var(--black-color);
+    font-size: 2rem;
+    padding-left: 3rem;
+}
+.grids .icerik .ozet p,
+.grids .icerik .ozet span{
+color: var(--black-color);
+}
+.grids .icerik .ozet .isim{
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+}
+.grids .icerik .ozet .tarih{
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+}
+.grids .icerik .ozet p{
+    padding: 1rem 1rem;
+    position: absolute;
+    left: 1rem;
+    top: 0.5rem;
+}
+.mert .ahmet{
+    color: var(--text-color);
+    padding-top: -10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 6rem;
+    margin-bottom: 3rem;
+}
+/* Duyurular End */
 /* Responsive Start */
 @media (min-width: 991px){
     .header .buttons button{
@@ -259,10 +339,24 @@ section {
     section {
         padding: 2rem;
     }
+    .mert.ahmet{
+        font-size: 3rem;
+    }
+    .duyurular{
+        margin-top: 3rem;
+    }
 }
 @media (max-width: 843px){
     section {
         padding-top: 13rem;
+    }
+    .duyurular{
+        grid-template-columns: 1fr;
+        row-gap: 3rem;
+    }
+    .mert.ahmet{
+        font-size: 3rem;
+        text-align: center;
     }
 }
 @media (max-width: 768px){
@@ -280,7 +374,6 @@ section {
     }
     .header .navbar.active {
         right: 3rem;
-
     }
 
     .header .navbar a {
@@ -289,6 +382,12 @@ section {
         margin: 1.5rem;
         padding: 0.5rem;
         font-size: 2rem;
+    }
+    .mert .ahmet{
+        font-size: 5rem;
+    }
+    .duyurular{
+        padding: 5rem 10rem;
     }
 }
 @media (max-width: 576px) {
