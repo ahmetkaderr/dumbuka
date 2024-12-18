@@ -249,6 +249,9 @@ section {
     align-items: center;
     padding: 10rem 30rem;
 }
+.grids:hover .icerik{
+    transform:scale(1.1);
+}
 .grids .icerik{
     margin: 2rem 2rem;
 }
