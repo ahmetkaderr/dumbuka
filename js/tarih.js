@@ -4,37 +4,56 @@ const month = today.getMonth() + 1;
 const day = today.getDate();
 
 let dailyText = [
-    `1 aralık
-    1640 - Portekiz, İspanya'dan bağımsızlığını ilan etti.
-    1918 - İzlanda, egemen bir devlet oldu.
-    1943 - Stalin, Roosevelt ve Churchill'ın katıldığı Tahran Konferansı sona erdi.
-    1973 - Papua Yeni Gine kendi kendini yönetme hakkını ilan etti.
-    1999 - Birleşik Arap Emirlikleri'nde 321 metre yükseklikle dünyanın en yüksek oteli olan Burc el-Arab hizmete açıldı`,
     `
-    2 aralık
-    </br>
-    1409 - Leipzig Üniversitesi kuruldu.
-        </br>
-    1804 - Napolyon Bonapart, Papa'nın da katıldığı törende taç giydi ve Fransa İmparatoru oldu.
-    1918 - Ermenistan, Osmanlı İmparatorluğu devletinden bağımsızlığını ilan etti.
-        </br>
-    1971 - Birleşik Arap Emirlikleri, Birleşik Krallık'tan bağımsızlığını kazandı.
-        </br>
-    1993 - Pablo Escobar, Medellín'de DEA ve Kolombiya güvenlik güçleri tarafından öldürüldü.`,
+    1 Aralık
+    1918: Transilvanya, Romanya ile birleşti. Romanya, Birinci Dünya Savaşı’ndan sonra 1 Aralık 1918'de Transilvanya’yı kendisine bağladı. Bu olay, Romanya'nın topraklarını genişletmesine yol açtı.
+    1981: HIV/AIDS ilk kez tanımlandı. Dünyada hızla yayılan AIDS (Edinilmiş Bağışıklık Yetersizliği Sendromu), ilk kez 1981'de tıp dünyası tarafından tanımlandı. Bu, dünyada HIV virüsünün etkilerine karşı daha fazla bilgi edinilmesini başlattı.
+    1991: Ukrayna, SSCB'den bağımsızlığını ilan etti. Sovyetler Birliği'nin çöküşü sırasında, 1 Aralık 1991’de Ukrayna, halk oylamasıyla bağımsızlık ilan etti.,
+    `,
     `
-    3 aralık
-    1920 - Ankara Hükûmeti ile Ermenistan Demokratik Cumhuriyeti arasında Gümrü Barış Antlaşması imzalandı.
-    1959 - Fazıl Küçük, Kıbrıs Cumhuriyeti cumhurbaşkanı yardımcısı oldu.
-    1973 - Pioneer 10, Jüpiter'in ilk yakın plan görüntülerini Dünya'ya gönderdi.
-    1979 - Ayetullah Ruhullah Humeyni, İran'ın ilk dini lideri oldu.
-    1984 - Hindistan'da bir fabrikadan 40 ton metil isosiyanat gazının sızması 18.000 kişinin ölümüne neden oldu.`,
+    2 Aralık
+    1804: Napolyon Bonapart, Fransa İmparatoru olarak taç giydi. Napolyon Bonapart, Fransa'nın İmparatoru unvanını 2 Aralık 1804'te aldı. Bu olay, Fransız Devrimi sonrası Fransa'da monarşinin yeniden doğuşunu simgeliyor.
+    1942: Enrico Fermi, ilk kontrollü nükleer zincir reaksiyonunu gerçekleştirdi. Chicago Üniversitesi’nde, Enrico Fermi tarafından gerçekleştirilen bu deney, nükleer enerjinin kullanılabilir bir güç kaynağı olabileceğini gösterdi.
+    `,
     `
-    4 aralık
-    1154 - Nicholas Breakspear, IV. Hadrianus ismiyle Papa oldu ve bu göreve gelen ilk İngiliz olarak tarihe geçti.
-    1791 - The Observer'ın ilk sayısı yayımlandı.
-    1943 - İnönü, Churchill ve Roosevelt arasında yapılan İkinci Kahire Konferansı başladı.
-    1965 - NASA, Gemini 7 uzay aracını uzaya fırlattı.
-    2021 - Semeru yanardağı, Endonezya'nın Doğu Cava eyaletindeki Cava adasında aralıklarla patlamaya başladı.`,
+    3 Aralık
+    1967: Dr. Christiaan Barnard, ilk kalp naklini gerçekleştirdi. Güney Afrika'da yapılan bu ilk başarılı kalp nakli, tıp tarihinde devrim niteliğinde bir adım oldu.
+    1992: İlk SMS mesajı gönderildi. Britanya'da Neil Papworth tarafından atılan ilk kısa mesaj (SMS), mobil telefonlar üzerinden iletişimin yeni bir çağa girmesini sağladı.
+    `,
+    `
+    4 Aralık
+    1956: Elvis Presley, Jerry Lee Lewis, Carl Perkins ve Johnny Cash bir stüdyoda toplandı. "Million Dollar Quartet" adı verilen bu tarihi an, müziğin efsane isimlerinin aynı anda kaydedilen ilk seansını işaret eder.
+    1977: İran Şahı, ABD Başkanı Jimmy Carter ile görüşmek için Tahran'da protestolar eşliğinde karşılandı. 1970’lerin sonlarına doğru İran'da rejim karşıtı protestolar giderek büyüdü, bu dönemde Amerikan çıkarlarının İran'daki etkisi tartışmalı hale geldi.
+    `,
+    `
+    5 Aralık
+    1933: ABD’de Alkol Yasağı (Prohibition) sona erdi. ABD'deki alkol yasağının bitmesiyle, alkol üretimi ve satışı yeniden yasallaştı ve ülke ekonomisinde büyük bir değişim yaşandı.
+    1952: Londra Büyük Smog Olayı, şehrin büyük bir kısmını etkiledi. London'da meydana gelen bu büyük hava kirliliği felaketi, 4 bin kişiden fazla insanın ölümüne yol açtı.
+    `,
+    `
+    6 Aralık
+    1917: Halifax Patlaması, Kanada'nın Halifax kentinde büyük bir patlama meydana geldi. Patlama, gemi kazası sonucu meydana gelen dev bir patlamadır ve binlerce insanın ölümüne yol açmıştır.
+    1921: İrlanda Bağımsızlık Antlaşması imzalandı. Bu anlaşma, İrlanda'nın İngiltere'den bağımsızlığını kazanması için önemli bir adım oldu.
+    `,
+    `
+    7 Aralık
+    1941: Japonya, Pearl Harbor'a saldırdı. Japonya'nın Pearl Harbor'a gerçekleştirdiği saldırı, Amerika Birleşik Devletleri'nin II. Dünya Savaşı'na katılmasına neden oldu.
+    `,
+    `
+    8 Aralık
+    1980: John Lennon, New York’ta vurularak öldürüldü. Müzik dünyasının efsane isimlerinden biri olan John Lennon, 1980’de New York’ta bir suikast sonucu hayatını kaybetti.
+    1991: Belavezha Anlaşması, SSCB’nin resmen dağılmasını ilan etti. Sovyetler Birliği’nin çöküşü, dünya çapında büyük değişimlere yol açtı.   
+    `,
+    `
+    9 Aralık
+    1905: Fransa’da Laiklik Yasası yürürlüğe girdi. Fransa, devletle din arasındaki ilişkiyi düzenleyen bir yasa kabul etti ve kiliseye karşı laik bir devlet sistemi inşa etti.
+    1961: Tanzanya'nın bağımsızlık günü olarak kutlanır. Tanzanya, Birleşik Krallık’tan bağımsızlık kazandı.
+    `,
+    `
+    10 Aralık
+    1901: İlk Nobel Ödülleri dağıtıldı. Nobel Ödülleri, her yıl dünya çapında bilim, edebiyat, barış gibi alanlarda en büyük başarıyı gösteren kişilere verilmektedir.
+    1948: İnsan Hakları Evrensel Beyannamesi, BM tarafından kabul edildi. Birleşmiş Milletler, temel insan haklarını güvence altına alan bu önemli beyannamayı kabul etti.
+    `,
     ]
 
 console.log(today);
@@ -42,22 +61,32 @@ let getToday = `${month} ${day}`;
 console.log(getToday);
 if(getToday == "12 1"){
     document.getElementById("daily-text").innerHTML = (dailyText[0]);
-}else{
-    console.log("çalışmadı0");
 };
 if(getToday == "12 2"){
     document.getElementById("daily-text").innerHTML = (dailyText[1]);
-}else{
-    console.log("çalışmadı1");
-}
+};
 if(getToday == "12 3"){
     document.getElementById("daily-text").innerHTML = (dailyText[2]);
-}else{
-    console.log("çalışmadı2");
-}
+};
 if(getToday == "12 4"){
     document.getElementById("daily-text").innerHTML = (dailyText[3]);
-}else{
-    console.log("çalışmadı3");
-}
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[4]);
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[5]);
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[6]);
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[7]);
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[8]);
+};
+if(getToday == "12 4"){
+    document.getElementById("daily-text").innerHTML = (dailyText[9]);
+};
 // Tarihte Bugün End
