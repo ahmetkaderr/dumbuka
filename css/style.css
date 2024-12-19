@@ -242,14 +242,14 @@ section {
 /* Duyurular Start */
 .duyurular{
     min-height: 100vh;
-    margin-top: -8.5rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 10rem;
     row-gap: 6rem;
-    justify-content: center;
-    align-items: center;
     padding: 10rem 30rem;
+}
+.duyurular ul, li{
+    list-style-type: none;
 }
 .grids:hover .icerik{
     transform:scale(1.1);
