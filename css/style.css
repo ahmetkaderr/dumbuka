@@ -277,6 +277,7 @@ section {
     padding: 0.5rem 3rem;
     display: flex;
     align-items: center;
+    justify-content: center;
     position: relative;
 }
 .grids .icerik .baslik .grid-logo img{
@@ -300,12 +301,7 @@ font-size: 1.2rem;
 }
 .grids .icerik .ozet .isim{
     position: absolute;
-    left: 1rem;
-    bottom: 1rem;
-}
-.grids .icerik .ozet .tarih{
-    position: absolute;
-    right: 1rem;
+    left: 2rem;
     bottom: 1rem;
 }
 .grids .icerik .ozet p{
@@ -313,6 +309,11 @@ font-size: 1.2rem;
     position: absolute;
     left: 1rem;
     top: 0.5rem;
+}
+.grids .icerik .ozet .adamolan{
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
 }
 .mert .ahmet{
     color: var(--text-color);
