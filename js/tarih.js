@@ -74,39 +74,39 @@ let dailyText = [
     </br>
     1948: İnsan Hakları Evrensel Beyannamesi, BM tarafından kabul edildi. Birleşmiş Milletler, temel insan haklarını güvence altına alan bu önemli beyannamayı kabul etti.
     `,
-    ]
+]
 
 console.log(today);
 let getToday = `${month} ${day}`;
 console.log(getToday);
-if(getToday == "12 1"){
+if (getToday == "12 1") {
     document.getElementById("daily-text").innerHTML = (dailyText[0]);
 };
-if(getToday == "12 2"){
+if (getToday == "12 2") {
     document.getElementById("daily-text").innerHTML = (dailyText[1]);
 };
-if(getToday == "12 3"){
+if (getToday == "12 3") {
     document.getElementById("daily-text").innerHTML = (dailyText[2]);
 };
-if(getToday == "12 4"){
+if (getToday == "12 4") {
     document.getElementById("daily-text").innerHTML = (dailyText[3]);
 };
-if(getToday == "12 5"){
+if (getToday == "12 5") {
     document.getElementById("daily-text").innerHTML = (dailyText[4]);
 };
-if(getToday == "12 6"){
+if (getToday == "12 6") {
     document.getElementById("daily-text").innerHTML = (dailyText[5]);
 };
-if(getToday == "12 7"){
+if (getToday == "12 7") {
     document.getElementById("daily-text").innerHTML = (dailyText[6]);
 };
-if(getToday == "12 8"){
+if (getToday == "12 8") {
     document.getElementById("daily-text").innerHTML = (dailyText[7]);
 };
-if(getToday == "12 9"){
+if (getToday == "12 9") {
     document.getElementById("daily-text").innerHTML = (dailyText[8]);
 };
-if(getToday == "12 10"){
+if (getToday == "12 10") {
     document.getElementById("daily-text").innerHTML = (dailyText[9]);
 };
 // Tarihte Bugün End
