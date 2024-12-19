@@ -2,7 +2,7 @@
 
 :root {
     --main-color: #1E2328;
-    --text-color: /* #ECDFCC */ #FED054;
+    --text-color: #FED054;
     --bg-color: #F4A303;
     --black-color: #2A2E34;
     --border: 0.1rem solid #F4B300 ;
@@ -188,7 +188,7 @@ section {
 /* Akay Start */
 .akay {
     min-height: 100vh;
-    margin-top: -12.5rem;
+    margin-top: -12rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -324,6 +324,32 @@ font-size: 1.2rem;
     margin-bottom: 3rem;
 }
 /* Duyurular End */
+/* Tarih Start */
+.tarih{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.tarih .tarihte-bugun{
+    display: flex 1 1 45rem;
+    align-items: start;
+    justify-content: start;
+    width: 80rem;
+    height: auto;
+}
+.tarih .tarihte-bugun h1{
+    color: var(--text-color);
+    font-size: 6rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.tarih .tarihte-bugun p{
+    margin-top: 5rem;
+    color: var(--text-color);
+    font-size: 2rem;
+}
+/* Tarih End */
 /* Responsive Start */
 @media (min-width: 768px){
     .header .buttons button{
