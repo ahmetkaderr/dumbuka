@@ -387,8 +387,16 @@ section {
     justify-content: center;
 }
 
-.tarih .tarihte-bugun p {
+.tarih .tarihte-bugun h2 {
     margin-top: 5rem;
+    color: var(--text-color);
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+.tarih .tarihte-bugun li{
+    list-style-type: square;
+}
+.tarih .tarihte-bugun p{
     color: var(--text-color);
     font-size: 2rem;
 }
