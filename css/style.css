@@ -394,7 +394,8 @@ section {
     margin-bottom: 2rem;
 }
 .tarih .tarihte-bugun li{
-    list-style-type: square;
+    list-style-type: disc;
+    margin-bottom: 3rem;
 }
 .tarih .tarihte-bugun p{
     color: var(--text-color);
