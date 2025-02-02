@@ -9,15 +9,14 @@ const tarihOlaylar = [
             "1933 - Bursa'da ezan ve kametin Türkçe okunmasını yanlış bulan bir grup, Ulucami'de namazdan çıkan halkı da yanlarına alarak Valilik önünde gösteri yaptı.",
             "1935 - Ayasofya, müze olarak halkın ziyaretine açıldı.",
             "1958 - Mısır ve Suriye, Birleşik Arap Cumhuriyeti adıyla birleşti. Bu durum ancak 1961'e dek sürdü."
-
         ]
     },
     {
         "tarih": "2 Şubat",
         "olaylar": [
-            `•1958 - Mısır ve Suriye, Birleşik Arap Cumhuriyeti adıyla birleşti. Bu durum ancak 1961'e dek sürdü.`,
-            `•1207 - Bugünkü Letonya ve Estonya'dan oluşan Terra Mariana kuruldu.`,
-            `•1982 - Suriye'nin büyük şehirlerinden Hama'da, Müslüman Kardeşler örgütüne yönelik büyük bir operasyon yapıldı. Operasyonda binlerce kişi yaşamını yitirdi. Bu olay tarihe Hama Katliamı olarak geçti.`,
+            `1958 - Mısır ve Suriye, Birleşik Arap Cumhuriyeti adıyla birleşti. Bu durum ancak 1961'e dek sürdü.`,
+            `1207 - Bugünkü Letonya ve Estonya'dan oluşan Terra Mariana kuruldu.`,
+            `1982 - Suriye'nin büyük şehirlerinden Hama'da, Müslüman Kardeşler örgütüne yönelik büyük bir operasyon yapıldı. Operasyonda binlerce kişi yaşamını yitirdi. Bu olay tarihe Hama Katliamı olarak geçti.`,
             `1984 - Vergi iadesine ilişkin yasa yürürlüğe girdi. Böylece 1 Ocak 1984 tarihinden itibaren ücretlilerin, memurların, emeklilerin, bunların eş ve çocuklarının ve bakmakla yükümlü olduğu yakınlarının kira giderleri hariç, ev eşyaları, yiyecek ve giyecek için yaptıkları harcamalar ile eğitim ve sağlık harcamaları vergi iadesine tabi olacak.`,
             `2007 - Birleşmiş Milletler "İklim Raporu" açıklandı. Küresel ısınmanın insan yaşamını tehdit ettiği uyarısı yapıldı.`
         ]
@@ -551,8 +550,8 @@ const tarihOlaylar = [
         "tarih": "31 Mart",
         "olaylar": [
             `1921 - İkinci İnönü Muharebesi'nde, Türk Ordusunun karşı taarruzu başladı.`,
-                `1923 - Lozan Antlaşması: Londra'da toplanan İtilaf Devletleri temsilcileri, Türkiye'nin 8 Mart'taki notasına cevap vererek, Lozan'da kesintiye uğrayan görüşmeleri sürdürmeye çağırdılar.`,
-                `1925 - Şeyh Said İsyanı'nın olduğu bölgede, Divan-ı Harb'in verdiği idam cezalarının, onay gerektirmeden yerine getirilmesi hakkındaki kanun kabul edildi.`
+            `1923 - Lozan Antlaşması: Londra'da toplanan İtilaf Devletleri temsilcileri, Türkiye'nin 8 Mart'taki notasına cevap vererek, Lozan'da kesintiye uğrayan görüşmeleri sürdürmeye çağırdılar.`,
+            `1925 - Şeyh Said İsyanı'nın olduğu bölgede, Divan-ı Harb'in verdiği idam cezalarının, onay gerektirmeden yerine getirilmesi hakkındaki kanun kabul edildi.`
         ]
     },
     {
@@ -598,7 +597,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"4 Nisan",
+        "tarih": "4 Nisan",
         "olaylar": [
             `1814 - Napolyon, tahtından ilk defa çekildi.`,
             `1913 - Osmanlı İmparatorluğu'nda Kadınlar Dünyası adlı dergi kuruldu.`,
@@ -609,7 +608,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"5 Nisan",
+        "tarih": "5 Nisan",
         "olaylar": [
             `1453 - Fatih Sultan Mehmet'in donanması, İstanbul sularına geldi.`,
             `1909 - Osmanlı İmparatorluğu'nda İttihad-ı Muhammedi Fırkası kuruldu.`,
@@ -618,7 +617,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"6 Nisan",
+        "tarih": "6 Nisan",
         "olaylar": [
             `1326 - Orhan Bey, kuşatma altında tutulan Bursa'yı Bizanslılardan aldı. Bursa, 1326-1361 arasında Osmanlılara başkentlik yaptı.`,
             `1453 - İstanbul, Fatih Sultan Mehmet tarafından kuşatıldı.`,
@@ -633,7 +632,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"7 Nisan",
+        "tarih": "7 Nisan",
         "olaylar": [
             `451 - Hun İmparatoru Attila, Franklar'ın elinde buluna Fransa'nın kuzeyindeki Metz şehrini ele geçirdi. Germen müttefikleriyle birleşerek; Reims, Mainz, Strazburg, Köln, Worms ve Trier kentleri yağmalandı.`,
             `1712 - New York'ta köleler isyan başlattı.`,
@@ -645,7 +644,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"8 Nisan",
+        "tarih": "8 Nisan",
         "olaylar": [
             `876 - Deyrülâkül Muharebesi : Muvaffak liderliğindeki Abbasi kuvvetleri, Dicle Nehri'ndeki Saffârî istilasını durdurdu. Emir Yakûb bin Leys es-Saffâr, Abbâsîler'in başkenti Bağdat'ı ele geçirmeye çalışır, ancak ordusuyla birlikte geri çekilmek zorunda kalır.`,
             `1513 - İspanyol Konkistador Juan Ponce de León, Florida'yı keşfetti ve bu bölgeyi İspanya toprağı olarak ilan etti.`,
@@ -662,7 +661,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"9 Nisan",
+        "tarih": "9 Nisan",
         "olaylar": [
             `1860 - Dünyada ilk kez bir ses kayıt altına alınabildi.`,
             `1932 - İlk Türk kadın hakim Mürüvvet Hanım, Adana'da göreve başladı.`,
@@ -671,14 +670,14 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"10 Nisan",
+        "tarih": "10 Nisan",
         "olaylar": [
             `1845 - Türk Polis Teşkilatı kuruldu.`,
             `1928 - TBMM, Anayasa'nın ikinci maddesini değiştirdi. Söz konusu maddeden, "Türkiye Devleti'nin dini İslam'dır" bölümü çıkarıldı. Milletvekilleri ve Cumhurbaşkanı, yemin ederken "Vallahi" yerine "Namusum üzerine söz veririm" diyecek.`
         ]
     },
     {
-        "tarih":"11 Nisan",
+        "tarih": "11 Nisan",
         "olaylar": [
             `1919 - Uluslararası Çalışma Örgütü (ILO) kuruldu.`,
             `1919 - 15. Kolordu Komutanlığına atanan Kâzım Karabekir Paşa, Mustafa Kemal Paşa'yı Şişli'deki evinde ziyaret etti.`,
@@ -689,7 +688,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"12 Nisan",
+        "tarih": "12 Nisan",
         "olaylar": [
             `1931 - Türk Tarihi Tetkik Cemiyeti kuruldu.`,
             `1939 - Nazi Almanyası Propaganda Bakanı Goebbels İstanbul'a ziyarette bulundu.`,
@@ -697,7 +696,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"13 Nisan",
+        "tarih": "13 Nisan",
         "olaylar": [
             `1204 - Dördüncü Haçlı Seferi'nde Kostantinopolis'in yağmalanması.`,
             `1517 - Son Memlük sultanı II. Tomanbay, I. Selim tarafından Kahire’de idam edildi.`,
@@ -706,7 +705,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"14 Nisan",
+        "tarih": "14 Nisan",
         "olaylar": [
             `1900 - Paris Uluslararası Fuarı açıldı. Fuarda, Osmanlı Pavyonu da yer aldı.`,
             `1963 - Türkiye Spor Yazarları ve Spor Kulübü Derneği kuruldu.`,
@@ -714,7 +713,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"15 Nisan",
+        "tarih": "15 Nisan",
         "olaylar": [
             `1923 - Birinci Türkiye Büyük Millet Meclisi, yeni seçimlerin yapılması kararını alarak, son oturumunu gerçekleştirdi.`,
             `1925 - Doğu'da isyan başlatan Şeyh Said yakalandı.`,
@@ -723,14 +722,14 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"16 Nisan",
+        "tarih": "16 Nisan",
         "olaylar": [
             `1945 - Kızıl Ordu Berlin'e girdi ve Berlin Muharebesi başladı.`,
             `1948 - Avrupa Ekonomik İşbirliği Örgütü kuruldu.`
         ]
     },
     {
-        "tarih":"17 Nisan",
+        "tarih": "17 Nisan",
         "olaylar": [
             `1453 - Fatih Sultan Mehmet, İstanbul adalarını fethetti.`,
             `1897 - Osmanlı İmparatorluğu ile Yunanistan Krallığı arasında, "Otuz Gün Savaşı" olarak da adlandırılan savaş başladı.`,
@@ -738,7 +737,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"18 Nisan",
+        "tarih": "18 Nisan",
         "olaylar": [
             `1916 - I. Dünya Savaşı: Rus İmparatorluğu, Trabzon Harekâtı'nı başlatarak Trabzon'u işgal etti.`,
             `1920 - İstanbul Hükûmeti, Millî Mücadele'yi yürüten Kuvâ-yi Milliye'ye karşı, Kuva-yi İnzibatiye'yi kurdu. Bu kuvvetler, Adapazarı dolaylarında çıkarılan isyanı destekledi; ancak Ankara Hükûmeti'nin düzenli birliklerine yenildi.`,
@@ -749,14 +748,14 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"19 Nisan",
+        "tarih": "19 Nisan",
         "olaylar": [
             `1926 - Türk karasularında her türlü denizcilik işlerini Türk vatandaşlarına tahsis eden ve yabancıların kabotaj hakkına son veren Kabotaj Kanunu kabul edildi.`,
             `1943 - II. Dünya Savaşı: Alman askerleri Yahudileri toplamak için Varşova Gettosu'na girdi.`
         ]
     },
     {
-        "tarih":"20 Nisan",
+        "tarih": "20 Nisan",
         "olaylar": [
             `1924 - Türkiye'de 1924 Anayasası yürürlüğe girdi.`,
             `1924 - Bilecik il oldu.`,
@@ -765,7 +764,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"21 Nisan",
+        "tarih": "21 Nisan",
         "olaylar": [
             `1821 - Sadrazam Benderli Ali Paşa görevinden ayrıldı ve 30 Nisan'da idam edildi. Benderli Ali Paşa, Padişah emri ile idam edildiği bilinen son Sadrazamdı.`,
             `1408 - Karakoyunlular ile Timurlular arasında 21 Nisan'da Serrud Muharebesi oldu.`,
@@ -775,7 +774,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"22 Nisan",
+        "tarih": "22 Nisan",
         "olaylar": [
             `1915 - I. Dünya Savaşı: İkinci Ypres Muharebesi başladı.`,
             `1920 - İtilaf Devletleri, Osmanlı Hükûmetini Paris'te toplanacak olan Barış Konferansı'na davet etti.`,
@@ -793,7 +792,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"23 Nisan",
+        "tarih": "23 Nisan",
         "olaylar": [
             `1906 - Rusya'da Çar II. Nikolay, "Temel Yasalar" olarak bilinen anayasayı ilan etti.`,
             `1920 - Türkiye Büyük Millet Meclisi açıldı ve ilk kez toplandı.`,
@@ -808,7 +807,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"24 Nisan",
+        "tarih": "24 Nisan",
         "olaylar": [
             `1512 - I. Selim, Osmanlı İmparatorluğu tahtına çıktı.`,
             `1513 - Yenişehir Muharebesi, I. Selim ile ağabeyi Ahmet Sultan arasında gerçekleşen taht kavgasının sonu.`,
@@ -821,7 +820,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"25 Nisan",
+        "tarih": "25 Nisan",
         "olaylar": [
             `1859 - Kızıldeniz ile Akdeniz'i birbirine bağlayacak olan Süveyş Kanalı'nın kazılmasına, Mısır'ın Port Said kentinde başlandı.`,
             `1915 - İngiliz - Fransız kuvvetleri, Çanakkale'ye çıkarma harekâtı başlattı. Kara savaşları başladı.`,
@@ -832,7 +831,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"26 Nisan",
+        "tarih": "26 Nisan",
         "olaylar": [
             `1870 - Osmanlı Devleti’nde, Dârülmuallimât (Kız Öğretmen Okulu) açıldı. Sınavla 32 kız öğrenci alındı.`,
             `1912 - İlk defa, bir Osmanlı pilotu olan Fesa Bey (Evrensev), Osmanlı tayyaresi ile Türk toprakları üzerinde uçtu.`,
@@ -840,7 +839,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"27 Nisan",
+        "tarih": "27 Nisan",
         "olaylar": [
             `1640 - Evliya Çelebi'nin seyahat programı, Bursa-İstanbul-İzmit güzergâhı ile başladı.`,
             `1749 - Handel'in Ateş Oyunları Müziği ilk kez Londra Green Park'ta seslendirildi.`,
@@ -850,7 +849,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"28 Nisan",
+        "tarih": "28 Nisan",
         "olaylar": [
             `1915 - Birinci Kirte Muharebesi başladı.`,
             `1916 - Kût'ül-Amâre bölgesinde 5 aydır kuşatma altında bulunan İngiliz birlikleri teslim oldular.`,
@@ -860,7 +859,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"29 Nisan",
+        "tarih": "29 Nisan",
         "olaylar": [
             `1916 - Kut'ül Ammare Kuşatmasında, Halil Kut Paşa komutasındaki 6. Ordu, Irak cephesinde Kut'ül Ammare kasabasında İngiliz Mezopotamya ordusunu teslim aldı.`,
             `1920 - TBMM, Hıyanet-i Vataniye Kanunu'nu onayladı.`,
@@ -868,7 +867,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"30 Nisan",
+        "tarih": "30 Nisan",
         "olaylar": [
             `1919 - Mustafa Kemal Paşa, Dokuzuncu Ordu Müfettişliğine atandı.`,
             `1920 - Paris'te toplanacak Barış Konferansı ile ilgili Ankara'da toplanan Büyük Millet Meclisi, taraf ülkelerin Dış İşleri Bakanlıklarına gönderdiği bir yazıyla, İstanbul'dan ayrı bir Hükûmetin kurulduğunu bildirdi.`,
@@ -877,7 +876,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"1 Mayıs",
+        "tarih": "1 Mayıs",
         "olaylar": [
             `1707 - İngiltere, Galler ve İskoçya; Büyük Britanya olarak birleşti.`,
             `1776 - İlluminati, Adam Weishaupt tarafından kuruldu.`,
@@ -893,14 +892,14 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"2 Mayıs",
+        "tarih": "2 Mayıs",
         "olaylar": [
             `1885 - Anadolu'nun ilk lisesi (idadisi) olan Kastamonu Abdurrahmanpaşa Lisesinin temeli törenle atıldı.`,
             `1920 - Maarif Vekâleti (Türkiye Cumhuriyeti Millî Eğitim Bakanlığı) kuruldu. (23 Nisan 1920'de TBMM açıldıktan sonra Hükûmetin, 2 Mayıs 1920 tarih ve 3 sayılı yasası ile İcra Vekilleri Heyetinin (Bakanlar Kurulu) on bir vekâletinden biri olarak "Maarif Vekâleti" örgütlenmiştir.)`
         ]
     },
     {
-        "tarih":"3 Mayıs",
+        "tarih": "3 Mayıs",
         "olaylar": [
             `1907 - Fenerbahçe Spor Kulübü kuruldu.`,
             `1915 - Arıburnu Zaferi kazanıldı.`,
@@ -914,7 +913,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"4 Mayıs",
+        "tarih": "4 Mayıs",
         "olaylar": [
             `1931 - Mustafa Kemal Atatürk, üçüncü kez Cumhurbaşkanı seçildi.`,
             `1942 - II. Dünya Savaşı: Port Moresby'ye doğru ilerleyen Japon kuvvetlerinin püskürtülmesiyle sonuçlanan Mercan Denizi Muharebesi başladı.`,
@@ -923,7 +922,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"5 Mayıs",
+        "tarih": "5 Mayıs",
         "olaylar": [
             `553 - İkinci İstanbul Konsili başladı.`,
             `1260 - Kubilay Han, Moğol İmparatoru oldu.`,
@@ -935,7 +934,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"6 Mayıs",
+        "tarih": "6 Mayıs",
         "olaylar": [
             `1536 - İngiltere Kralı VIII. Henry, ülkedeki bütün kiliselerde İngilizce İncillerin bulundurulmasını emretti.`,
             `1889 - Osmanlı Devleti'nin de katıldığı, Uluslararası Paris Fuarı başladı.`,
@@ -943,7 +942,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"7 Mayıs",
+        "tarih": "7 Mayıs",
         "olaylar": [
             `1830 - Osmanlı-Amerikan Ticaret ve Dostluk Antlaşması imzalandı.`,
             `1832 - Yunanistan Krallığı kuruldu.`,
@@ -952,7 +951,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"8 Mayıs",
+        "tarih": "8 Mayıs",
         "olaylar": [
             `1867 - Osmanlı İmparatorluğu'nda Dilâver Paşa Nizamnamesi ilan edildi.`,
             `1884 - 1876 Anayasası'nın mimarı Mithat Paşa, Sultan Abdülaziz'i öldürttüğü iddiasıyla yargılanmış ve Taif'e sürülmüştü. Boğularak öldürülen Mithat Paşa, Taif'te gömüldü.`,
@@ -963,7 +962,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"9 Mayıs",
+        "tarih": "9 Mayıs",
         "olaylar": [
             `1485 - Davutpaşa Lisesi, dönemin Sadrazamı Davut Paşa tarafından 'Mekteb-i Sübyan' adıyla kuruldu. Okul, 1847'de Rüşdiye Mektebi'ne dönüştü.`,
             `1935 - Cumhuriyet Halk Fırkası Dördüncü Büyük Kurultayı toplandı. Kurultayda, "fırka" yerine "parti" sözcüğü benimsendi. Altı Ok daha ayrıntılı bir şekilde ele alındı. "Partinin güttüğü bütün bu esaslar Kemalizm prensipleridir" denilerek; Kemalizm, ilk kez resmi olarak tanımlandı.`,
@@ -974,7 +973,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"10 Mayıs",
+        "tarih": "10 Mayıs",
         "olaylar": [
             `1556 - Marmara denizi depremi meydana geldi.`,
             `1868 - Bugünkü adı Danıştay olan Şura-yı Devlet kuruldu.`,
@@ -985,7 +984,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"11 Mayıs",
+        "tarih": "11 Mayıs",
         "olaylar": [
             `1927 - Akademi Ödülleri'ni dağıtan Sinema Sanatları ve Bilimleri Akademisi kuruldu.`,
             `1938 - Atatürk, çiftliklerini ve taşınmazlarını ulusa bağışladı.`,
@@ -994,7 +993,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"12 Mayıs",
+        "tarih": "12 Mayıs",
         "olaylar": [
             `1820 - Modern hemşireliğin kurucusu, Kırım Savaşı sırasında Üsküdar'daki Selimiye Kışlası'nda da görev yapan İngiliz hemşire Florence Nightingale, İtalya'nın Floransa kentinde doğdu. Kendisine "Lambalı Kadın" adı takılmıştı.`,
             `1929 - İlk Tıp Bayramı, Haydarpaşa Tıp Fakültesi'nde kutlandı.`,
@@ -1005,7 +1004,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"13 Mayıs",
+        "tarih": "13 Mayıs",
         "olaylar": [
             `1277 - Karamanoğlu Mehmet Bey, Konya şehrini Karamanoğulları topraklarına kattı ve Türkçeyi resmî dil ilan etti.`,
             `1915 - Çanakkale'de, Binbaşı Ahmet Bey komutasındaki Muavenet-i Milliye Muhribi, HMS Goliath zırhlısını torpilleyerek batırdı.`,
@@ -1014,7 +1013,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"14 Mayıs",
+        "tarih": "14 Mayıs",
         "olaylar": [
             `1560 - Piyale Paşa komutasındaki Osmanlı donanması, Cerbe Deniz Savaşı'nı kazandı.`,
             `1767 - İngiliz Hükûmeti'nin ithal çaya vergi koyması üzerine, Amerikan Bağımsızlık Savaşı başladı.`,
@@ -1027,7 +1026,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"15 Mayıs",
+        "tarih": "15 Mayıs",
         "olaylar": [
             `1648 - Otuz Yıl savaşlarını bitiren Vestfalya Antlaşması imzalandı.`,
             `1856 - Anadolu Feneri ve Rumeli Feneri, Fransızlar tarafından inşa edilerek işletilmeye başlandı.`,
@@ -1038,7 +1037,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"16 Mayıs",
+        "tarih": "16 Mayıs",
         "olaylar": [
             `1919 - Mustafa Kemal Paşa, Türk Kurtuluş Savaşı'nı başlatmak üzere İstanbul'dan Samsun'a doğru yola çıktı.`,
             `1926 - Vahidettin (VI. Mehmet), İtalya'nın San Remo kentinde kalp yetmezliği sebebi ile öldü.`,
@@ -1046,7 +1045,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"17 Mayıs",
+        "tarih": "17 Mayıs",
         "olaylar": [
             `1928 - Türkiye Cumhuriyeti Hıfzısıhha Müessesesi kuruldu.`,
             `1939 - 27 Mayıs 1938 tarihli Londra Kredi Antlaşması'na ait onay belgelerinin karşılıklı teatisi yapıldı.`,
@@ -1055,7 +1054,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"18 Mayıs",
+        "tarih": "18 Mayıs",
         "olaylar": [
             `1941 - Alman zırhlısı Bismark ve ağır kruvazör Prinz Eugen, Ren Egzersizi (Rheinübung) Harekatı için denize açıldılar.`,
             `1943 - Adolf Hitler, müttefiki İtalya'nın teslim olmaya yönelmesi üzerine, Alaric Operasyonu'nu başlatarak İtalya'nın Alman ordularınca istilası emrini verdi.`,
@@ -1064,7 +1063,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"19 Mayıs",
+        "tarih": "19 Mayıs",
         "olaylar": [
             `1515 - Kemah Kuşatması`,
             `1919 - Mustafa Kemal Paşa'nın 9. Ordu Müfettişi olarak Anadolu'ya Samsun'dan ayak basması ve Millî Mücadele'yi başlatması.`,
@@ -1083,7 +1082,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"20 Mayıs",
+        "tarih": "20 Mayıs",
         "olaylar": [
             `1481 - II. Beyazıt, Osmanlı Padişahı oldu.`,
             `1622 - Osmanlı İmparatorluğu'nda isyancılar, ordu ve yönetimde yenilik taraftarı olan Padişah II. Osman'ı tahttan indirip öldürdü. Öldürülen ilk padişah olan Genç Osman'ın yerine, I. Mustafa ikinci kez tahta çıkarıldı.`,
@@ -1097,7 +1096,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"21 Mayıs",
+        "tarih": "21 Mayıs",
         "olaylar": [
             `1847 - Tapu ve Kadastro Genel Müdürlüğü (Defterhane-iş Amire Kalemi) kuruldu.`,
             `1889 - İttihat ve Terakki Fırkası kuruldu.`,
@@ -1107,7 +1106,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"22 Mayıs",
+        "tarih": "22 Mayıs",
         "olaylar": [
             `MÖ 334 - Büyük İskender'in orduları, III. Darius'u Granikos Savaşı'nda yendi.`,
             `1176 - Selahaddin Eyyubi'ye Halep'te suikast girişimi.`,
@@ -1115,7 +1114,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"23 Mayıs",
+        "tarih": "23 Mayıs",
         "olaylar": [
             `1958 - İstanbul Süleymaniye'de tarihi Siyavuş Paşa Konağı yandı.`,
             `1919 - İzmir'in İtilaf Devletleri tarafından işgalini protesto için Sultanahmet Mitingi yapıldı, mitinge 200 bin kişi katıldı.`,
@@ -1123,7 +1122,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"24 Mayıs",
+        "tarih": "24 Mayıs",
         "olaylar": [
             `1844 - Amerikalı mucit Samuel Morse, ABD Senatosu üyelerinin de hazır bulunduğu bir deneyle, ABD Kongre binasından Baltimore'da bir tren istasyonuna kendi icadı olan Mors alfabesiyle ilk mesajı gönderdi.`,
             `1924 - Yabancı şirketlerce işletilen Osmanlı Anadolu Demiryolları (CFOA) Şirketi'nin millileştirilmesi için Anadolu-Bağdat Demiryolları Müdiriye-i Umumiyesi kuruldu.`,
@@ -1132,21 +1131,21 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"25 Mayıs",
+        "tarih": "25 Mayıs",
         "olaylar": [
             `1571 - İspanyol İmparatorluğu, Venedik Cumhuriyeti ve Papalık Devleti, Osmanlı Devleti aleyhine ittifak kararı aldı.`,
             `1954 - Türkiye, Osmanlı borçlarının son taksitini ödedi.`,
         ]
     },
     {
-        "tarih":"26 Mayıs",
+        "tarih": "26 Mayıs",
         "olaylar": [
             `1926 - Millî Mücadele'ye katılmayan memurların görevlerine son verilmesine ilişkin kanun kabul edildi.`,
             `1938 - Atatürk, Ankara'dan son kez ayrıldı.`,
         ]
     },
     {
-        "tarih":"27 Mayıs",
+        "tarih": "27 Mayıs",
         "olaylar": [
             `1915 - Osmanlı Hükümeti tarafından Sevk ve İskan Kanunu kabul edildi.`,
             `1960 - 27 Mayıs Darbesi: Türk Silahlı Kuvvetleri yönetime el koydu. Silahlı Kuvvetler adına ülke yönetimini Millî Birlik Komitesi üstlendi. Orgeneral Cemal Gürsel, Millî Birlik Komitesi'nin başına getirildi. Millî Birlik Komitesi, ilk iş olarak Türkiye Büyük Millet Meclisini ve Hükûmeti feshetti ve her türlü siyasi faaliyeti yasakladı.`,
@@ -1154,7 +1153,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"28 Mayıs",
+        "tarih": "28 Mayıs",
         "olaylar": [
             `622 - Hicret, Medine'ye 3 km uzaklıkta bulunan Kubâ'ya ulaşılmasıyla tamamlandı.`,
             `1812 - Osmanlı Devleti ile Rusya arasında Bükreş Antlaşması imzalandı ve 1806-1812 Osmanlı-Rus Savaşı sona erdi.`,
@@ -1167,7 +1166,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"29 Mayıs",
+        "tarih": "29 Mayıs",
         "olaylar": [
             `1453 - Osmanlı padişahı Fatih Sultan Mehmet, İstanbul'u fethederek Doğu Roma (Bizans) İmparatorluğu'nu sona erdirdi. Birçok tarihçi için İstanbul'un Fethi, Orta Çağ'ın sonudur.`,
             `1807 - Kabakçı Mustafa ayaklanmasında, isyancılar Şehzade Mustafa ve Mahmut'un kendilerine teslimini istedi. Sultan III. Selim tahttan indirildi, IV. Mustafa tahta çıktı.`,
@@ -1177,7 +1176,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"30 Mayıs",
+        "tarih": "30 Mayıs",
         "olaylar": [
             `1453 - Fatih Sultan Mehmet, Hızır Bey'i (Çelebi) İstanbul'a ilk belediye başkanı olarak atadı.`,
             `1453 - Fatih Sultan Mehmet, İstanbul Üniversitesi'ni kurdu.`,
@@ -1191,7 +1190,7 @@ const tarihOlaylar = [
         ]
     },
     {
-        "tarih":"31 Mayıs",
+        "tarih": "31 Mayıs",
         "olaylar": [
             `1799 - Napolyon, Akka yenilgisinin ardından, savaş meydanını Cezzar Ahmed Paşa kuvvetlerine terk etti.`,
             `1957 - Atatürk Üniversitesi kanunu kabul edildi.`,
@@ -1206,8 +1205,8 @@ let getToday = `${month} ${day}`;
 const aylar = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"];
 const ay = aylar[today.getMonth()];
 const bugunTarihi = `${day} ${ay}`;
-document.getElementById("tarih").innerText = bugunTarihi;
 const olaylar = tarihOlaylar.find(item => item.tarih === bugunTarihi);
+document.getElementById("tarih").innerText = bugunTarihi;
 
 if (olaylar) {
     const olaylarListesi = document.getElementById("olaylar");
