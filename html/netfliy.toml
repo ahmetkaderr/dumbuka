@@ -3,7 +3,37 @@
   publish = "dist"            # Build çıktı dizini (build veya dist olabilir)
 
 [[redirects]]
-  from = "/old-page"
-  to = "/new-page"
+  from = "/index.html"
+  to = "/*"
   status = 301
   force = true
+
+[[redirects]]
+    from = "/duyurular.html"
+    to = "/*"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "akay.html"
+    to = "/*"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/duyuru1.html"
+    to = "/*"
+    status = 301
+    force = "true"
+
+[[redirects]]
+    from = "parlamento.html"
+    to = "/*"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "tarih.html"
+    to = "/*"
+    status = 301
+    force = true
