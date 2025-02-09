@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"  # Build komutunuz (örneğin, React veya Vue.js projeleri için)
+  publish = "dist"            # Build çıktı dizini (build veya dist olabilir)
+
+[[redirects]]
+  from = "/old-page"
+  to = "/new-page"
+  status = 301
+  force = true
